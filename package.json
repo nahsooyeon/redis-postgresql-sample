@@ -1,0 +1,11 @@
+{
+  "name": "toy",
+  "version": "1.0.0",
+  "main": "sample.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ioredis": "^4.27.9",
+    "pg": "^8.7.1"
+  }
+}
